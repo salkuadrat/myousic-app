@@ -1,2 +1,3 @@
 # Myousic
-The best app to enjoy listening millions of music from youtube
+
+Enjoy listening music from youtube (semi-offline).
