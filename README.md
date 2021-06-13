@@ -2,7 +2,7 @@
 
 Enjoy listening music from youtube (semi offline).
 
-[Download APK (version 1.1.5)](https://github.com/salkuadrat/myousic-app/raw/master/myousic-1.1.5.apk)
+[Download APK (version 1.1.6)](https://github.com/salkuadrat/myousic-app/raw/master/myousic-1.1.6.apk)
 
 Made with love & a little bit of sweat.
 
