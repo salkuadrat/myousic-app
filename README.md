@@ -1,10 +1,10 @@
 # Myousic
 
-Enjoy listening music from youtube without ads distraction. 
+[Download APK (version 1.1.7)](https://github.com/salkuadrat/myousic-app/raw/master/myousic-1.1.7.apk)
+
+Enjoy listening music from youtube without ads distraction.
 
 This app works semi offline. When you play a music, it will fetch audio stream from youtube and save it to local cache. Then it will play from cache when you play it again.
-
-[Download APK (version 1.1.7)](https://github.com/salkuadrat/myousic-app/raw/master/myousic-1.1.7.apk)
 
 Made with Love & a little bit of sweat.
 
