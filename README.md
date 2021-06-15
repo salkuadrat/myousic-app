@@ -8,7 +8,7 @@ This app works semi offline. When you play a music, it will fetch audio stream f
 
 Made with Love & some cups of coffee.
 
-Feel Free to Support: GoPay / iSaku (+6285157423227)
+Support Dev & Maintenance: GoPay / iSaku (+6285157423227)
 
 ## Custom API Key
 
