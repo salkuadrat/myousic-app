@@ -4,7 +4,7 @@
 
 Enjoy listening music from youtube without ads distraction.
 
-This app works semi offline. When you play a song, it will fetch audio stream from youtube and save it to local cache. Then will play from cache the next time you play it again.
+<!-- This app works semi offline. When you play a song, it will fetch audio stream from youtube and save it to local cache. Then will play from cache the next time you play it again. -->
 
 Made with Love & some cups of coffee.
 
