@@ -1,6 +1,6 @@
 # Myousic
 
-[Download APK (v 1.2.5)](https://github.com/salkuadrat/myousic-app/raw/master/myousic-1.2.5.apk)
+[Download APK (v 1.2.6)](https://github.com/salkuadrat/myousic-app/raw/master/myousic-1.2.6.apk)
 
 Enjoy listening music from youtube without ads distraction.
 
